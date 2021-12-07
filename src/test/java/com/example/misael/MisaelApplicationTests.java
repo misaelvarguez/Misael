@@ -1,0 +1,13 @@
+package com.example.misael;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MisaelApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
